@@ -8,7 +8,7 @@ Web Scraping é um método automatizado para coleta de dados na web. Os dados na
 
 ## 🔍 Porque buscar perfis do Linkedin?
 
-O MatrizCast, é um podcast de educação que já entrevistou mais de 80 profissionais com o objetivo de orientar os jovens sobre o futuro do mercado de trabalho. O processo de busca por estes possíveis entrevistados é feito pela rede social LinkedIn. Todo este processo é feito manualmente, primeiro é definido um tema, depois é feita a pesquisa no LinkedIn e o convite é enviado para todos os selecionados.
+O [MatrizCast](https://www.youtube.com/c/MatrizCast), é um podcast de educação que já entrevistou mais de 80 profissionais com o objetivo de orientar os jovens sobre o futuro do mercado de trabalho. O processo de busca por estes possíveis entrevistados é feito pela rede social LinkedIn. Todo este processo é feito manualmente, primeiro é definido um tema, depois é feita a pesquisa no LinkedIn e o convite é enviado para todos os selecionados.
 
 Partindo deste ponto o objetivo foi aplicar o conhecimento aprendido sobre Web Scraping para automatizar essa busca, já que o programa pergunta qual o tema (ou temas) de interesse e retorna um arquivo .csv com as informações de nome, headline e url de cada perfil no LinkedIn.
  
