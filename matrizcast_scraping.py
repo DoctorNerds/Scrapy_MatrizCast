@@ -27,9 +27,9 @@ sleep(1)
 usuario_input = driver.find_element(By.ID, "username")
 senha_input = driver.find_element(By.ID, 'password')
 
-# Você deve substituar "email" e "senha" pelo seu email e senha da conta no LinkedIn
-usuario_input.send_keys('fabinhomori@hotmail.com')
-senha_input.send_keys('FabioMori03111989')
+# Você deve substituar "seuemail" e "suasenha" pelo seu email e senha da conta no LinkedIn
+usuario_input.send_keys('seuemail@seuamail.com')
+senha_input.send_keys('suasenha')
 sleep(1)
 driver.find_element(By.XPATH,"//*[@class='btn__primary--large from__button--floating']").click()
 
